@@ -3,7 +3,7 @@ C Programlama Dili ile Girilen Sayının 1'den Başlayarak Toplamını Veren Alg
 
 # Çalışma Mantığı
 Girilen bir sayının 1'den başlayarak sırayla toplayarak sonucu veren algoritmadır. <br>
-Örne: Girilen Sayi: 5 ise 1+2+3+4+5= 15 sonucunu verir. 
+Örnek: Girilen Sayi: 5 ise 1+2+3+4+5= 15 sonucunu verir. 
 
 # Kullanım
 Algoritmanın çalışabilmesi için C programlama dilinin çalışabileceği program(ların) yüklü olması gereklidir.
